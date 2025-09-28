@@ -11,7 +11,7 @@ What are the most popular albums, artists, and tracks?
 Do listening patterns differ on weekdays vs weekends?
 How does the latest year’s engagement compare with the previous year?
 
-# Steps in the Project
+## Steps in the Project
 Requirement Gathering – Identified business questions for Albums, Artists, Tracks & Listening patterns.
 Data Preparation – Imported raw data, removed duplicates, handled missing values.
 Data Modeling – Built relationships between Albums, Artists & Tracks.
@@ -19,7 +19,7 @@ Data Processing – Applied Power Query transformations and Excel checks.
 DAX Calculations – Created measures for YoY growth, LY vs PY trends, Top N.
 Dashboard Design – Structured visuals for intuitive storytelling.
 Report Development – Built interactive dashboards in Power BI with drill-down, drill-through, and grid view.
-# Key Insights
+## Key Insights
 ## Albums
 Total Albums Played Over Time → Listening grew steadily, with peak months identified.
 Weekday vs Weekend → Weekends had ~20% higher engagement.
