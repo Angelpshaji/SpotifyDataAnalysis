@@ -36,6 +36,10 @@ Heatmap showed evening hours (7–10 PM) as peak listening time.
 Scatter Plot Analysis revealed clusters:
  Most engaging tracks → High frequency & long listening time.
  Less popular tracks → Low frequency & short listening time.
+
+ <img width="996" height="663" alt="Screenshot 2025-09-15 105749" src="https://github.com/user-attachments/assets/6aa24857-035b-43d0-a43f-9d6b62d32b71" />
+ <img width="1002" height="665" alt="Screenshot 2025-09-13 132442" src="https://github.com/user-attachments/assets/895eb74a-e694-49a7-be12-4bdcc6f624a3" />
+
 # Tools Used
 Excel – Data cleaning & validation
 Power Query – Transformation & modeling
@@ -48,4 +52,4 @@ Heatmap & scatter plot analysis help identify content worth promoting.
 ### Author
 ### Angel P Shaji
 B.Tech Information Technology | Aspiring Data Analyst
-🔗 [LinkedIn
+🔗 https://www.linkedin.com/in/angel-p-shaji/
